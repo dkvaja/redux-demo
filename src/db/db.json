@@ -1,0 +1,10 @@
+{
+  "users": [
+    {
+      "email": "demo@minimals.cc",
+      "password": "$2a$10$i5W.ZtDxUtzuWQaWtbb8EuCYlWkIz8Il3HkekSfRnqop1LFFjmVy2",
+      "name": "test",
+      "id": 1
+    }
+  ]
+}
